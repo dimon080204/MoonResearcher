@@ -1,0 +1,140 @@
+body {
+    background-image: url(dark-zvezdnoe_nebo-zvezdi-noch-sozvezdiya-temnii-84874.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.mainPage {
+    background-color: lightgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+    padding: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.MP1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.MP2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.MP2 > img {
+    height: 200px;
+    border-radius: 15px;
+}
+
+.NA {
+    height: 200px;
+}
+
+.NA > img {
+    height: 180px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.preFooter {
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background: linear-gradient(180deg, lightgray, #333);
+}
+
+.foreword {
+    display: flex;
+    height: 200px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.foreword > p {
+    margin-right: 10px;
+    width: 200px;
+    font-size: 11pt;
+}
+
+.foreword > img {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.mainMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.history {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+ol {
+    padding-left: 0;
+}
+
+.int {
+    margin-right: 20px;
+    margin-left: 30px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    margin: 10px;
+}
+
+li > a {
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
+li > a:hover {
+    color: white;
+    background-color: #333333;
+    opacity: 0.5;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(1627410022_5-kartinkin-com-p-lunnaya-poverkhnost-tekstura-krasivo-6.jpg);
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.contact {
+    color: white;
+}
+
+.contact > a {
+    text-decoration: none;
+    color: white;
+}

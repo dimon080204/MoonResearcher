@@ -1,0 +1,17 @@
+.title {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#param > li {
+    margin-left: -10px;
+}
+
+#description {
+    color: #333333;
+}
+
+.mainPage > h5 {
+    display: flex;
+    justify-content: center;
+}

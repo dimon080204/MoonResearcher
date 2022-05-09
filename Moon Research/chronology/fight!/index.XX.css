@@ -1,0 +1,185 @@
+body {
+    background-image: url(../../dark-zvezdnoe_nebo-zvezdi-noch-sozvezdiya-temnii-84874.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.preFooter {
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background: linear-gradient(180deg, lightgray, #333);
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../../1627410022_5-kartinkin-com-p-lunnaya-poverkhnost-tekstura-krasivo-6.jpg);
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.contact {
+    color: white;
+}
+
+.contact > a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: lightgray;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.toHome > a > img {
+    height: 100px;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.toHome > a:hover > img {
+    background-color: white;
+}
+
+.mContact {
+    color: black;
+    align-self: center;
+    margin-right: 100px;
+}
+
+.mContact > a {
+    text-decoration: none;
+    color: black;
+}
+
+.mainPage {
+    background-color: lightgray;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.article {
+    margin: 30px;
+}
+
+.a0 {
+    font-size: 14pt;
+}
+
+.a1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.illustr {
+    margin: 20px;
+    position: relative;
+}
+
+.illustr > img {
+    height: 500px;
+    position: relative;
+    z-index: 2;
+}
+
+.shadow {
+    background-color: black;
+    height: 500px;
+    width: 888px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow1 {
+    background-color: black;
+    height: 500px;
+    width: 212px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow2 {
+    background-color: black;
+    height: 500px;
+    width: 682px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow3 {
+    background-color: black;
+    height: 500px;
+    width: 782px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow4 {
+    background-color: black;
+    height: 500px;
+    width: 743px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#R-7 {
+    border: solid black 1px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+}
+
+.end > a {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.end > a:hover {
+    background-color: dodgerblue;
+}

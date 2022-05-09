@@ -1,0 +1,51 @@
+.lost {
+    list-style: none;
+}
+
+.shadow5 {
+    background-color: black;
+    height: 500px;
+    width: 649px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow6 {
+    background-color: black;
+    height: 500px;
+    width: 494px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.other {
+    margin-left: 50px;
+}
+
+.other > ul {
+    padding-left: 17px;
+}
+
+.other > ul > li {
+    margin: 10px;
+}
+
+.other > ul > li > a {
+    padding: 10px;
+    font-size: 14pt;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.other > ul > li > a:hover {
+    color: white;
+    background-color: #333333;
+    opacity: 0.5;
+}

@@ -1,0 +1,109 @@
+.article > h3 {
+    display: flex;
+    justify-content: center;
+}
+
+#ru {
+    justify-content: end;
+}
+
+#Ch-1 {
+    border-radius: 40px;
+}
+
+.shadow8 {
+    background-color: black;
+    height: 500px;
+    width: 475px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow9 {
+    background-color: black;
+    height: 500px;
+    width: 673px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+    border-radius: 40px;
+}
+
+.shadow10 {
+    background-color: black;
+    height: 500px;
+    width: 333px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#J {
+    height: 300px;
+    border-radius: 40px;
+}
+
+#j {
+    margin-right: 30px;
+}
+
+#subJ {
+    height: 20px;
+}
+
+.shadow11 {
+    background-color: black;
+    height: 300px;
+    width: 367px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+    border-radius: 40px;
+}
+
+.shadow12 {
+    background-color: black;
+    height: 300px;
+    width: 481px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+    border-radius: 40px;
+}
+
+.shadow13 {
+    background-color: black;
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.shadow14 {
+    background-color: black;
+    height: 500px;
+    width: 274px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+#GateWay {
+    height: 900px;
+}
